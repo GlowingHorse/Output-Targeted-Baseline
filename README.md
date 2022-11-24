@@ -1,6 +1,8 @@
-# Aumann-Shapley Baseline Calculation in Convolutional Neural Networks
+# Aumann-Shapley Baseline Calculation
 
-For the paper 'Output-targeted baseline for neuron attribution calculation'
+For the paper
+
+Shi, R., Li, T., & Yamaguchi, Y. (2022). [Output-targeted baseline for neuron attribution calculation](https://www.sciencedirect.com/science/article/abs/pii/S0262885622001457). Image and Vision Computing, 124, 104516.
 
 Quickstart
 ===
